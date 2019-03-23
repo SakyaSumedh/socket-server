@@ -1,0 +1,21 @@
+{
+  "name": "wirfi_socket_server",
+  "version": "1.0.0",
+  "description": "node.js socket server for push notification",
+  "main": "index.js",
+  "author": "Sumedh Shakya",
+  "license": "MIT",
+  "dependencies": {
+    "@types/socket.io": "^2.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "pm2": "^3.3.1"
+  }
+}
