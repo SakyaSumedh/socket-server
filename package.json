@@ -1,5 +1,5 @@
 {
-  "name": "wirfi_socket_server",
+  "name": "socket-server",
   "version": "1.0.0",
   "description": "node.js socket server for push notification",
   "main": "index.js",
