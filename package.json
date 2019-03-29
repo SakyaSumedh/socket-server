@@ -1,7 +1,7 @@
 {
   "name": "socket-server",
   "version": "1.0.0",
-  "description": "node.js socket server for push notification",
+  "description": "node.js socket server for real time notification",
   "main": "index.js",
   "author": "Sumedh Shakya",
   "license": "MIT",
