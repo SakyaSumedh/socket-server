@@ -9,7 +9,7 @@ This socket server has been built on node.js with Express, with motive to replac
   yarn: https://yarnpkg.com/en/docs/install
 
 
-## Initial Setups:
+## Initial Setup:
 - Install requirements
 ```
 $ npm install
